@@ -51,17 +51,9 @@ SISTEMAS-EMBARCADOS/
 │   └── ... Outros/
 │
 ├── Aulas/
-│   ├── Aula-01-09-2025-BlinkLed/
-│   │   ├── Codigo/
-│   │   └── README.md
-│   │
-│   ├── Aula-08-09-2025-SensorTemperatura/
-│   │   ├── Codigo/
-│   │   └── README.md
-│   │
-│   └── Aula-DD-MM-AAAA-NomeDoProjeto/
-│       ├── Codigo/
-│       └── README.md
+│   ├── 01-09-2025-BlinkLed.md
+│   ├── 08-09-2025-SensorTemperatura.md
+│   └── DD-MM-AAAA-NomeDoProjeto.md
 │
 ├── Projeto-Final/
 │   ├── Documentacao/
