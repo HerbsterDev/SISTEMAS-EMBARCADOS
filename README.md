@@ -51,9 +51,9 @@ SISTEMAS-EMBARCADOS/
 │   └── ... Outros/
 │
 ├── Aulas/
-│   ├── 01-09-2025-BlinkLed.md
-│   ├── 08-09-2025-SensorTemperatura.md
-│   └── DD-MM-AAAA-NomeDoProjeto.md
+│   ├── 01-09-2025-BlinkLed.ino
+│   ├── 08-09-2025-SensorTemperatura.ino
+│   └── DD-MM-AAAA-NomeDoProjeto.ino
 │
 ├── Projeto-Final/
 │   ├── Documentacao/
